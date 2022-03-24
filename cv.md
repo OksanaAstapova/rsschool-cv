@@ -11,6 +11,7 @@
 * **Skype:** live:pitjay_1
 * **LinkedIn:** [oksana-astapova](https://www.linkedin.com/in/oksana-astapova/)
 * **Telegram:** [@Pitjay](@Pitjay)
+* **Discord:** Oksana Astapova(@OksanaAstapova)
 
 ----------------------------------------------------------------
 
@@ -39,7 +40,40 @@
 * Angular *(Basic knowledge)*
 * WordPress
 
+---------------------------------------------------------------------
 
+### CODE EXAMPLE:
+
+```JavaScript
+let smth = [99,21,5,34,76,6];
+        smth.sort(function(a,b){
+            return a-b
+        })
+        console.log(smth);
+```
+
+--------------------------------------------------------------------
+
+### EDUCATION:
+
+**2010** Mogilev State University n. A. A. Kuleshov
+
+#### COURSES:
+
+**2021** *University of Michigan*
+University of Michigan specialization. Web Design for Everybody: Basics of Web Development & Coding: HTML5, CSS, JavaScript, responsive design 
+
+**2021** *The Hong Kong University of Science and Technology*
+Front-End Web UI Frameworks and Tools: Bootstrap
+
+**2021** *The Hong Kong University of Science and Technology*
+Front-End JavaScript Frameworks: Angular
+
+**2021** *Coursera*
+Create a Website using Wordpress
+
+**2022** *Coursera*
+Coursera project. Typescript variables and Data Types
 
 
 
