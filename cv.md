@@ -61,19 +61,19 @@ let smth = [99,21,5,34,76,6];
 #### COURSES:
 
 **2021** *University of Michigan*
-University of Michigan specialization. Web Design for Everybody: Basics of Web Development & Coding: HTML5, CSS, JavaScript, responsive design 
+- University of Michigan specialization. Web Design for Everybody: Basics of Web Development & Coding: HTML5, CSS, JavaScript, responsive design 
 
 **2021** *The Hong Kong University of Science and Technology*
-Front-End Web UI Frameworks and Tools: Bootstrap
+- Front-End Web UI Frameworks and Tools: Bootstrap
 
 **2021** *The Hong Kong University of Science and Technology*
-Front-End JavaScript Frameworks: Angular
+- Front-End JavaScript Frameworks: Angular
 
 **2021** *Coursera*
-Create a Website using Wordpress
+- Create a Website using Wordpress
 
 **2022** *Coursera*
-Coursera project. Typescript variables and Data Types
+- Coursera project. Typescript variables and Data Types
 
 
 
