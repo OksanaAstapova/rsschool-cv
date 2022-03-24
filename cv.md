@@ -75,5 +75,13 @@ let smth = [99,21,5,34,76,6];
 **2022** *Coursera*
 - Coursera project. Typescript variables and Data Types
 
+----------------------------------------------------------------------------
+
+### LANGUAGES:
+
+- **English:** C1 Advanced (according to EFSET Test)
+- **Russian** Native
+- **Belarusian** C2 Proficiency
+- **Lithuanian** A1 Basic
 
 
