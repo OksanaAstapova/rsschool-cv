@@ -1,6 +1,5 @@
 # **OKSANA ASTAPOVA**
 
-## JUNIOR FRONTEND WEB DEVELOPER
 
 ---------------------------------------------------------------
 
