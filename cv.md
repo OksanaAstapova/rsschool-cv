@@ -23,3 +23,50 @@
 >  As for my personal qualities, I am creative, active and easy to learn, communicative and a good team player.
 
 ---------------------------------------------------------------------
+
+### SKILLS:
+
++ **Languages:** JavaScript, Typescript
++ **Technologies:** JavaScript, HTML5, SASS, CSS, Bootstrap, Webpack, REST API, NPM, Angular, WordPress
++ **Tools:** Chrome Dev Tools, Figma, Canva, PerfectPixels, Photoshop, CodePen
++ **Source Control:** Git
++ **OS:** Windows
++ **IDE:** Visual Studio Code, Sublime Text 3
++ **Accomplishments:** 
+ 1. Applications implemented using Single-Page Application approach
+ 2. Implemented projects using Vanilla JavaScript and clean CSS
+
+---------------------------------------------------------------------
+
+### CODE EXAMPLE:
+
+```typescript
+async function removeDifficult(i: number){
+
+  const wordCloseButton = document.getElementById(`difficult-remove ${i}`) as HTMLElement;
+  const word: Word = wordCloseButton.parentElement?.parentElement;
+  const wordsIds: string = getWordIdFromStorage('word-id');
+
+  const ids = wordsIds.split(',');
+  ids.forEach(id => {
+    if(id === word?.id){
+      let i = ids.indexOf(id);
+      ids.splice(i, 1);
+    }
+  })
+  localStorage.setItem("word-id", JSON.stringify(ids));
+  
+  word?.remove();
+
+  const userId = getfromStorage('id');
+
+  const content = await getUserWords(userId);
+  content.forEach(el => {
+    if(el.wordId === word?.id){
+      const id = el.wordId;
+      deleteUserWord(userId, id)
+    }
+  })
+}
+```
+-------------------------------------------------------------------------------------
